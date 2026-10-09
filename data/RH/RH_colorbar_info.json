@@ -1,0 +1,32 @@
+{
+  "variable": "RH",
+  "colorbar_min": 21.0,
+  "colorbar_max": 100.0,
+  "unit": "%",
+  "percentiles_used": "2-98%",
+  "actual_data_min": 6.958854675292969,
+  "actual_data_max": 100.0,
+  "ticks": [
+    21,
+    31,
+    41,
+    51,
+    61,
+    71,
+    81,
+    91
+  ],
+  "use_log_scale": false,
+  "log_linear_threshold": null,
+  "tick_labels": [
+    "21%",
+    "31%",
+    "41%",
+    "51%",
+    "61%",
+    "71%",
+    "81%",
+    "91%"
+  ],
+  "resolution_m": 1500
+}
